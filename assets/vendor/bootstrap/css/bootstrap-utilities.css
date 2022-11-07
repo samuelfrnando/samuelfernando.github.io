@@ -697,6 +697,7 @@
 
 .align-items-stretch {
   align-items: stretch !important;
+  margin: auto;
 }
 
 .align-content-start {
